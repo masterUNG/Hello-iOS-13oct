@@ -23,6 +23,7 @@ class ViewController: UIViewController {
         nameString = myTextField.text!
         print("Name \(nameString)")
         
+        
     }
     
     
